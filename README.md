@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Data Science and Smart Grids. 
 - 🌱 I’m currently learning Python for ML and JavaScript for web applications. 
 - 💞️ I’m looking to collaborate on using sequential learning ELM algorithms for real-time prediction problems. 
-- 📫 You can research me by through [my webpage](https://muhammadhaseeb.info)
+- 📫 You can research me through [my webpage](https://muhammadhaseeb.info)
 
 <!---
 hasyarshad/hasyarshad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
