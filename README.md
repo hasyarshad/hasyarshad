@@ -13,7 +13,6 @@ Advanced Control Systems & Diagnosis Lab
 
 ## Stack
 
-| | |
 |---|---|
 | **Control** | Finite-control-set MPC · model predictive torque control · field-oriented control · sliding mode (adaptive discrete-time, hierarchical) · backstepping · differential flatness · MRAS observers · LQG |
 | **Machine learning** | PyTorch · TensorFlow · transformers · 1D CNNs · LSTMs and learnable filter banks · stacking ensembles and gradient-boosted meta-learners · liquid neural networks |
