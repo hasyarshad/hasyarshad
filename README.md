@@ -3,7 +3,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=700&height=44&lines=Finding+faults+in+electric+drives+before+they+spread;Predictive+control+that+holds+up+when+the+model+is+wrong;RAG+systems+that+check+their+own+citations;Transformers+written+from+scratch%2C+running+in+the+browser">
-    <img alt="Finding faults in electric drives before they spread. Predictive control that holds up when the model is wrong. RAG systems that check their own citations. Transformers written from scratch, running in the browser." src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3200&pause=1100&color=0891B2&center=true&vCenter=true&width=700&height=44&lines=Finding+faults+in+electric+drives+before+they+spread;Predictive+control+that+holds+up+when+the+model+is+wrong;RAG+systems+that+check+their+own+citations;Transformers+written+from+scratch%2C+running+in+the+browser">
+    <img alt="Finding faults in electric drives before they spread. Predictive control that holds up when the model is wrong. RAG systems that check their own citations. Transformer written from scratch, running in the browser." src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3200&pause=1100&color=0891B2&center=true&vCenter=true&width=700&height=44&lines=Finding+faults+in+electric+drives+before+they+spread;Predictive+control+that+holds+up+when+the+model+is+wrong;RAG+systems+that+check+their+own+citations;Transformers+written+from+scratch%2C+running+in+the+browser">
   </picture>
 </p>
 
